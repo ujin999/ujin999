@@ -23,7 +23,7 @@
 
 <br/>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ujin999&count_private=true&hide_border=true&hide_title=true)](https://github.com/ujin999)
+[![GitHub stats](https://github-stats-extended.vercel.app/api?username=ujin999&count_private=true&hide_border=true&hide_title=true)](https://github.com/ujin999)
 
 <br/>
 
