@@ -18,8 +18,7 @@
 **Projects**
 
 - [**mini-tomcat**](https://github.com/ujin999/mini-tomcat) — Tomcat의 핵심 동작을 직접 구현하며 HTTP 요청 처리 흐름(파싱 → 라우팅 → 서블릿 → 응답)을 학습
-- [**git-based-docs**](https://github.com/ujin999/git-based-docs) — Git을 저장소로 사용하는 블록 기반 실시간 협업 문서 (WebSocket, 락 관리, 영속화 큐)
-- [**crdt-based-docs**](https://github.com/ujin999/crdt-based-docs) — CRDT(Yorkie) + ProseMirror 기반 동시 편집 에디터 실험
+- [**RMF-Block**](https://github.com/CBNU-TeamH/RMF-Block) — CRDT(Yorkie) + ProseMirror 기반의 동시 편집 에디터
 
 <br/>
 
